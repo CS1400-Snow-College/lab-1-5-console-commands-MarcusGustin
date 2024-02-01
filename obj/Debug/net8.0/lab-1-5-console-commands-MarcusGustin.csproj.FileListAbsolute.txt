@@ -1,0 +1,15 @@
+C:\Users\JHS Student\Desktop\MarcusGustin\lab-1-5-console-commands-MarcusGustin\bin\Debug\net8.0\lab-1-5-console-commands-MarcusGustin.exe
+C:\Users\JHS Student\Desktop\MarcusGustin\lab-1-5-console-commands-MarcusGustin\bin\Debug\net8.0\lab-1-5-console-commands-MarcusGustin.deps.json
+C:\Users\JHS Student\Desktop\MarcusGustin\lab-1-5-console-commands-MarcusGustin\bin\Debug\net8.0\lab-1-5-console-commands-MarcusGustin.runtimeconfig.json
+C:\Users\JHS Student\Desktop\MarcusGustin\lab-1-5-console-commands-MarcusGustin\bin\Debug\net8.0\lab-1-5-console-commands-MarcusGustin.dll
+C:\Users\JHS Student\Desktop\MarcusGustin\lab-1-5-console-commands-MarcusGustin\bin\Debug\net8.0\lab-1-5-console-commands-MarcusGustin.pdb
+C:\Users\JHS Student\Desktop\MarcusGustin\lab-1-5-console-commands-MarcusGustin\obj\Debug\net8.0\lab-1-5-console-commands-MarcusGustin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JHS Student\Desktop\MarcusGustin\lab-1-5-console-commands-MarcusGustin\obj\Debug\net8.0\lab-1-5-console-commands-MarcusGustin.AssemblyInfoInputs.cache
+C:\Users\JHS Student\Desktop\MarcusGustin\lab-1-5-console-commands-MarcusGustin\obj\Debug\net8.0\lab-1-5-console-commands-MarcusGustin.AssemblyInfo.cs
+C:\Users\JHS Student\Desktop\MarcusGustin\lab-1-5-console-commands-MarcusGustin\obj\Debug\net8.0\lab-1-5-console-commands-MarcusGustin.csproj.CoreCompileInputs.cache
+C:\Users\JHS Student\Desktop\MarcusGustin\lab-1-5-console-commands-MarcusGustin\obj\Debug\net8.0\lab-1-5-console-commands-MarcusGustin.sourcelink.json
+C:\Users\JHS Student\Desktop\MarcusGustin\lab-1-5-console-commands-MarcusGustin\obj\Debug\net8.0\lab-1-5-console-commands-MarcusGustin.dll
+C:\Users\JHS Student\Desktop\MarcusGustin\lab-1-5-console-commands-MarcusGustin\obj\Debug\net8.0\refint\lab-1-5-console-commands-MarcusGustin.dll
+C:\Users\JHS Student\Desktop\MarcusGustin\lab-1-5-console-commands-MarcusGustin\obj\Debug\net8.0\lab-1-5-console-commands-MarcusGustin.pdb
+C:\Users\JHS Student\Desktop\MarcusGustin\lab-1-5-console-commands-MarcusGustin\obj\Debug\net8.0\lab-1-5-console-commands-MarcusGustin.genruntimeconfig.cache
+C:\Users\JHS Student\Desktop\MarcusGustin\lab-1-5-console-commands-MarcusGustin\obj\Debug\net8.0\ref\lab-1-5-console-commands-MarcusGustin.dll
